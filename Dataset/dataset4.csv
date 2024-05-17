@@ -1,0 +1,32 @@
+User_ID,Time_for_Setup,Use_Time,Total_Time,Task_Completion,User_Satisfaction,Physical_Comfort_During_Use,Interest_in_Continued_Use_of_VR_for_Work,Perceived_Productivity_During_Session,Comfort_Level_During_Use,Will_you_buy_this_product,Would_you_buy_if_finance_not_issue,VR_Fatigue,Reasons_Not_To_Buy,Intuitiveness_of_Multi_Screen_Interaction,VR_Experience_Meeting_Expectations,Perceived_Value_for_Daily_Needs,Recommend_VR_System
+101,492,32,524,Coding,1,Yes,Yes,Cost,1,1,1,1,1
+102,8,45,52,Coding,4,Yes,Yes,Comfort,4,3,4,5,4
+103,5,40,45,Assignment,5,Yes,No,Technical issues,5,4,5,4,5
+104,10,50,60,Other,2,No,Yes,Lack of interest,2,2,3,2,2
+105,3,30,33,Coding,5,Yes,Yes,None,5,5,5,5,5
+106,7,35,42,Assignment,2,No,No,Cost,2,2,2,2,2
+107,6,38,44,Coding,3,Yes,Yes,None,3,3,3,3,3
+108,4,42,46,Coding,4,Yes,Yes,None,4,4,5,5,4
+109,5,39,44,Assignment,3,Yes,No,Technical issues,3,3,3,3,3
+110,9,37,46,Assignment,2,No,No,Cost,2,2,2,2,2
+111,2,33,35,Coding,5,Yes,Yes,None,5,5,5,5,5
+112,6,38,44,Coding,3,Yes,Yes,Comfort,3,3,3,3,3
+113,4,40,44,Coding,4,Yes,Yes,None,4,4,4,4,4
+114,8,35,43,Assignment,2,No,No,Cost,2,2,2,2,2
+115,6,38,44,Coding,3,Yes,Yes,None,3,3,3,3,3
+116,3,30,33,Coding,5,Yes,Yes,None,5,5,5,5,5
+117,5,45,50,Coding,4,Yes,Yes,None,4,4,4,4,4
+118,7,36,43,Assignment,3,No,No,Comfort,2,2,3,2,3
+119,6,38,44,Assignment,2,No,No,Cost,2,2,2,2,2
+120,3,30,33,Coding,5,Yes,Yes,None,5,5,5,5,5
+121,5,36,41,Coding,3,Yes,Yes,None,3,3,3,3,3
+122,7,35,42,Assignment,2,No,No,Cost,2,2,2,2,2
+123,10,40,50,Assignment,1,No,No,Lack of interest,1,1,1,1,1
+124,2,30,32,Coding,5,Yes,Yes,None,5,5,5,5,5
+125,4,42,46,Coding,4,Yes,Yes,None,4,4,4,4,4
+126,5,36,41,Coding,3,Yes,Yes,None,3,3,3,3,3
+127,7,35,42,Assignment,2,No,No,Cost,2,2,2,2,2
+128,3,30,33,Coding,5,Yes,Yes,None,5,5,5,5,5
+129,5,36,41,Coding,3,Yes,Yes,None,3,3,3,3,3
+130,2,32,34,Coding,5,Yes,Yes,None,5,5,5,5,5
+131,7,35,42,Assignment,2,No,No,Cost,2,2,2,2,2

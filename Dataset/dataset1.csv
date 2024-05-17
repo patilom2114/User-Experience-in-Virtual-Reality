@@ -1,0 +1,32 @@
+User_ID,Name,CellPhone,Mail,Age,Tech_Savviness,Occupation,Experience_with_VR,Experience_with_Playing_Video_Games,Decision_Making_in_Technology_Purchase,Interest_in_New_Technologies,Usage_of_Digital_Devices,VR_Comfort_Level,Expectations_of_VR,Perceived_Realism_Expectation
+101,Hidden,Hidden,Hidden,30,1,Other,1,1,1,1,1,1,1,1
+102,Hidden,Hidden,Hidden,25,3,Professional in IT,2,3,4,4,4,3,3,3
+103,Hidden,Hidden,Hidden,27,4,Professional in IT,4,4,4,4,5,3,4,4
+104,Hidden,Hidden,Hidden,29,2,Other,1,1,1,2,2,1,1,1
+105,Hidden,Hidden,Hidden,26,5,Professional in IT,5,5,5,5,5,4,5,5
+106,Hidden,Hidden,Hidden,24,2,Student in Master's of CS,1,2,2,2,3,1,2,2
+107,Hidden,Hidden,Hidden,28,3,Other,2,3,3,3,3,2,3,3
+108,Hidden,Hidden,Hidden,22,4,Student in Master's of CS,4,4,4,4,5,3,4,4
+109,Hidden,Hidden,Hidden,30,1,Professional in IT,3,3,4,4,2,4,5,3
+110,Hidden,Hidden,Hidden,23,2,Other,2,1,2,1,2,1,2,2
+111,Hidden,Hidden,Hidden,26,5,Student in Master's of CS,5,5,5,5,5,4,5,5
+112,Hidden,Hidden,Hidden,28,3,Professional in IT,3,3,4,4,3,2,3,3
+113,Hidden,Hidden,Hidden,24,4,Student in Master's of CS,4,4,5,5,4,4,4,4
+114,Hidden,Hidden,Hidden,27,2,Other,2,2,2,3,2,1,2,2
+115,Hidden,Hidden,Hidden,25,3,Professional in IT,3,3,3,3,3,2,3,3
+116,Hidden,Hidden,Hidden,26,5,Student in Master's of CS,5,5,5,5,5,4,5,5
+117,Hidden,Hidden,Hidden,29,4,Professional in IT,4,4,4,5,4,3,4,4
+118,Hidden,Hidden,Hidden,23,3,Other,2,3,2,3,2,1,2,3
+119,Hidden,Hidden,Hidden,28,1,Professional in IT,3,2,3,2,2,1,2,2
+120,Hidden,Hidden,Hidden,22,4,Student in Master's of CS,5,5,4,5,5,4,5,5
+121,Hidden,Hidden,Hidden,27,3,Professional in IT,3,3,3,3,3,2,3,3
+122,Hidden,Hidden,Hidden,24,2,Student in Master's of CS,2,2,2,2,3,1,2,2
+123,Hidden,Hidden,Hidden,30,1,Other,1,1,1,1,1,1,1,1
+124,Hidden,Hidden,Hidden,22,5,Student in Master's of CS,5,5,5,5,5,5,5,5
+125,Hidden,Hidden,Hidden,26,4,Professional in IT,4,4,4,4,4,3,4,4
+126,Hidden,Hidden,Hidden,27,3,Other,3,3,3,3,3,2,3,3
+127,Hidden,Hidden,Hidden,24,2,Student in Master's of CS,2,2,2,2,3,1,2,2
+128,Hidden,Hidden,Hidden,26,5,Professional in IT,5,5,5,5,5,4,5,5
+129,Hidden,Hidden,Hidden,28,3,Professional in IT,3,3,4,4,3,2,3,3
+130,Hidden,Hidden,Hidden,25,4,Student in Master's of CS,4,4,4,5,4,4,5,5
+131,Hidden,Hidden,Hidden,23,2,Professional in IT,2,2,2,3,2,1,2,2
