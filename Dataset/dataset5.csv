@@ -1,4 +1,4 @@
-User_ID,Symptoms_Experienced,Headache_Severity_Post_Use,Eye_Strain_Post_Use,Neck_Shoulder_Discomfort_Post_Use,Perceived_Immersion,Interest_in_Future_VR_Purchases,Physical_Comfort_Headset,Visual_Experience_Quality,Weight_Impact_Headset,Interaction_Naturalness,Learning_Curve_Proficiency_in_VR,Long_Term_Engagement
+User_ID,Symptoms_Experienced,Headache_Severity_Post_Use,Eye_Strain_Post_Use,Neck_Shoulder_Discomfort_Post_Use,Perceived_Immersion,Interest_in_Future_VR_Purchases,Physical_Comfort_Headset,Visual_Experience_Quality,Weight_Impact_Headset,Interaction_Naturalness
 101,5,5,5,1,1,1,1,5,1,1
 102,1,2,2,3,4,4,4,1,4,3,4
 103,0,1,1,5,5,5,5,0,5,4,5
